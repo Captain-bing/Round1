@@ -49,8 +49,14 @@ The recent rise of deep learning has led everyone to focus on building models. T
 
 ## Mission
 
-### PART.I Clean
+### PART.I Feature Engineering
+
+Although there are many representational models that claim to be able to replace the work of manual feature extraction, we still cannot ignore the role of many manual features, because the features learned by representational learning are not necessarily the actual relationship, but only the coincidence correlation. Now more and more studies show that the prior bias in the input features will greatly affect the final result, and these prior biases are often unlearned by the model, because the ability of most models lies in fitting, not in judging whether the relationship is correct. We wanted participants to **1) extract as many features as possible from the data**, **2)while assessing whether these features were important for classification questions and regression questions, respectively (each answer: yes/no)**.
+
 ### PART.II Prediction
+
+
+
 ### PART.III Classification & Clustering
 
 ## Helps
