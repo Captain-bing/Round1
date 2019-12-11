@@ -17,11 +17,11 @@ As the founders of PvZMLC, we both are so excited to announce the very first rou
 
 ### Notice
 
-**Dataset** Dataset for Air Quality Forecast
+**Dataset** Dataset for Air Quality Forecast( **Neither other data nor datasets are allowed to use during any step of your work!!!** )
 
 **Type** data mining, visualization
 
-**Alogrithms** classicals
+**Alogrithms** classicals( **No Neural Networks! We don't want to see them anywhere.**)
 
 **Time** 2019/12/13-2019/12/17
 
@@ -51,13 +51,16 @@ The recent rise of deep learning has led everyone to focus on building models. T
 
 ### PART.I Feature Engineering
 
-Although there are many representational models that claim to be able to replace the work of manual feature extraction, we still cannot ignore the role of many manual features, because the features learned by representational learning are not necessarily the actual relationship, but only the coincidence correlation. Now more and more studies show that the prior bias in the input features will greatly affect the final result, and these prior biases are often unlearned by the model, because the ability of most models lies in fitting, not in judging whether the relationship is correct. We wanted participants to **1) extract as many features as possible from the data**, **2)while assessing whether these features were important for classification questions and regression questions, respectively (each answer: yes/no)**.
+Although there are many representational models that claim to be able to replace the work of manual feature extraction, we still cannot ignore the role of many manual features, because the features learned by representational learning are not necessarily the actual relationship, but only the coincidence correlation. Now more and more studies show that the prior bias in the input features will greatly affect the final result, and these prior biases are often unlearned by the model, because the ability of most models lies in fitting, not in judging whether the relationship is correct. 
+We wanted participants to **1) extract as many features as possible from the data**, **2)while assessing whether these features were important for classification questions and regression questions, respectively (each answer: yes/no)**.
 
 ### PART.II Prediction
 
-
+The second part is to **1) predict the next 7 days' air quality. 2) Show at least 2 ways to predict**( We recommend that you provide performance reports on your models, otherwise it may not be fair to judge them solely on the final results).
 
 ### PART.III Classification & Clustering
+
+At this part, you need to use **classification** or **clustering** methods to mining implicit patterns. It's an open proposition, so just start your brainstorm( We offer some reference Suggestions. **1) mining from multiple dimension combination level of data; 2) mining from evolution level of single dimension value.**).
 
 ## Helps
 
